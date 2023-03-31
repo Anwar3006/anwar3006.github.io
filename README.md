@@ -1,2 +1,1 @@
-# Hosting
-This repo is used to experiment hosting playforms with GitHub Pages
+# Project 1 (Portfolio)
